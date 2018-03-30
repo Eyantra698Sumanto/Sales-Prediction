@@ -1,4 +1,4 @@
-###Setting up the Environment
+### Setting up the Environment
 
 1. Download [Python](https://www.python.org/downloads/) and choose the version number i.e. 3.x or 2.x 
 
@@ -15,7 +15,7 @@
 
 ***
 
-###Dataset
+### Dataset
 The task is to predict the total sales of an outlet. You can find the train and test dataset under `dataset` directory.
 
 Description of attributes that are confusing:
